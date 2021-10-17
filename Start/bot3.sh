@@ -1,2 +1,2 @@
-cd /Users/whitefox/Desktop/Development/Discord\ Bot/RaidBot 
+cd BotDirectory
 node bot3.js 
