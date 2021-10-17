@@ -1,22 +1,21 @@
 { 
     "prefixe": ".",
-    "command": ".raid",
+    "command": ".spam",
+    "commandMP": ".dm",
     "token": {
-        "token1": "ODk4MzEzNjQ5ODA0OTQ3NTM3.YWiZxw.jE1THyn2b3dmyC8OZUWG2wTOowg",
-        "token2": "ODk4MzE0MDI3Njc4MTk1NzYz.YWiaIg.hlx40PlnviwebVx46Qp8YTz0unQ",
-        "token3": "ODk4MzE0NDMxMTkxMjIwMjI0.YWiagg.EDt94jIKuNyaNV70rBmHGYPsSVk",
-        "token4": "ODk4MzE1NTI1MjA4MjgxMDkx.YWibhw.9y9DTgiBcKAQRiIPOlX4a5QMljM",
-        "token5": "ODk4MzE2MzIxNTUxNDQxOTUx.YWicRA.Ol_v3HPddaeqIx80g_1p62CgQFs"
+        "token1": "",
+        "token2": "",
+        "token3": "",
+        "token4": "",
+        "token5": ""
+
     },
     "activity": {
-        "message": "WhiteFox2232 Best Streamer",
-        "type": "STREAMING",
-        "url": "https://www.twitch.tv/whitefox2232"
+        "message": "regarder des abricots ",
+        "type": "PLAYING"
     },
-    "spam_number": "100",
+    "spam_number": "1000",
     "delay": "1"
 
 }
 
-
-  
