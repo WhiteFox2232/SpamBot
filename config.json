@@ -11,11 +11,12 @@
 
     },
     "activity": {
-        "message": "regarder des abricots ",
+        "message": "This is a status",
         "type": "PLAYING"
     },
     "spam_number": "1000",
-    "delay": "1"
+    "delay": "1*1",
+    "whitelist": "yourDiscordID"
 
 }
 
