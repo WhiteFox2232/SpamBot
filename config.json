@@ -1,22 +1,31 @@
-{ 
+{
     "prefixe": ".",
     "command": ".spam",
     "commandMP": ".dm",
-    "token": {
-        "token1": "",
-        "token2": "",
-        "token3": "",
-        "token4": "",
-        "token5": ""
+    "token": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
 
-    },
     "activity": {
-        "message": "This is a status",
+        "message": "regarder des abricots ",
         "type": "PLAYING"
     },
     "spam_number": "1000",
     "delay": "1*1",
-    "whitelist": "yourDiscordID"
+    "whitelist": "645390302580047872"
 
 }
-
